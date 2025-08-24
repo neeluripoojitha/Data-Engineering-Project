@@ -1,0 +1,352 @@
+[
+    {
+        "customer_id": 1,
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "city": "Delhi",
+        "signup_date": "2022-01-15"
+    },
+    {
+        "customer_id": 2,
+        "name": "Bob Johnson",
+        "email": "bob@example.com",
+        "city": "Mumbai",
+        "signup_date": "2022-03-22"
+    },
+    {
+        "customer_id": 3,
+        "name": "Charlie Lee",
+        "email": "charlie@example.com",
+        "city": "Bangalore",
+        "signup_date": "2022-05-10"
+    },
+    {
+        "customer_id": 4,
+        "name": "Diana King",
+        "email": "diana@example.com",
+        "city": "Hyderabad",
+        "signup_date": "2022-07-18"
+    },
+    {
+        "customer_id": 5,
+        "name": "Ethan Brown",
+        "email": "ethan@example.com",
+        "city": "Chennai",
+        "signup_date": "2022-08-05"
+    },
+    {
+        "customer_id": 6,
+        "name": "Fiona White",
+        "email": "fiona@example.com",
+        "city": "Pune",
+        "signup_date": "2022-09-12"
+    },
+    {
+        "customer_id": 7,
+        "name": "George Black",
+        "email": "george@example.com",
+        "city": "Ahmedabad",
+        "signup_date": "2022-10-03"
+    },
+    {
+        "customer_id": 8,
+        "name": "Hannah Green",
+        "email": "hannah@example.com",
+        "city": "Kolkata",
+        "signup_date": "2022-11-19"
+    },
+    {
+        "customer_id": 9,
+        "name": "Ian Grey",
+        "email": "ian@example.com",
+        "city": "Jaipur",
+        "signup_date": "2022-12-24"
+    },
+    {
+        "customer_id": 10,
+        "name": "Julia Blue",
+        "email": "julia@example.com",
+        "city": "Lucknow",
+        "signup_date": "2023-01-08"
+    },
+    {
+        "customer_id": 11,
+        "name": "Kevin Orange",
+        "email": "kevin@example.com",
+        "city": "Nagpur",
+        "signup_date": "2023-02-17"
+    },
+    {
+        "customer_id": 12,
+        "name": "Laura Purple",
+        "email": "laura@example.com",
+        "city": "Indore",
+        "signup_date": "2023-03-30"
+    },
+    {
+        "customer_id": 13,
+        "name": "Michael Cyan",
+        "email": "michael@example.com",
+        "city": "Patna",
+        "signup_date": "2023-04-11"
+    },
+    {
+        "customer_id": 14,
+        "name": "Nina Yellow",
+        "email": "nina@example.com",
+        "city": "Bhopal",
+        "signup_date": "2023-05-25"
+    },
+    {
+        "customer_id": 15,
+        "name": "Customer 15",
+        "email": "customer15@example.com",
+        "city": "City5",
+        "signup_date": "2023-04-16"
+    },
+    {
+        "customer_id": 16,
+        "name": "Customer 16",
+        "email": "customer16@example.com",
+        "city": "City6",
+        "signup_date": "2023-05-17"
+    },
+    {
+        "customer_id": 17,
+        "name": "Customer 17",
+        "email": "customer17@example.com",
+        "city": "City7",
+        "signup_date": "2023-06-18"
+    },
+    {
+        "customer_id": 18,
+        "name": "Customer 18",
+        "email": "customer18@example.com",
+        "city": "City8",
+        "signup_date": "2023-07-19"
+    },
+    {
+        "customer_id": 19,
+        "name": "Customer 19",
+        "email": "customer19@example.com",
+        "city": "City9",
+        "signup_date": "2023-08-20"
+    },
+    {
+        "customer_id": 20,
+        "name": "Customer 20",
+        "email": "customer20@example.com",
+        "city": "City0",
+        "signup_date": "2023-09-21"
+    },
+    {
+        "customer_id": 21,
+        "name": "Customer 21",
+        "email": "customer21@example.com",
+        "city": "City1",
+        "signup_date": "2023-10-22"
+    },
+    {
+        "customer_id": 22,
+        "name": "Customer 22",
+        "email": "customer22@example.com",
+        "city": "City2",
+        "signup_date": "2023-11-23"
+    },
+    {
+        "customer_id": 23,
+        "name": "Customer 23",
+        "email": "customer23@example.com",
+        "city": "City3",
+        "signup_date": "2023-12-24"
+    },
+    {
+        "customer_id": 24,
+        "name": "Customer 24",
+        "email": "customer24@example.com",
+        "city": "City4",
+        "signup_date": "2023-01-25"
+    },
+    {
+        "customer_id": 25,
+        "name": "Customer 25",
+        "email": "customer25@example.com",
+        "city": "City5",
+        "signup_date": "2023-02-26"
+    },
+    {
+        "customer_id": 26,
+        "name": "Customer 26",
+        "email": "customer26@example.com",
+        "city": "City6",
+        "signup_date": "2023-03-27"
+    },
+    {
+        "customer_id": 27,
+        "name": "Customer 27",
+        "email": "customer27@example.com",
+        "city": "City7",
+        "signup_date": "2023-04-28"
+    },
+    {
+        "customer_id": 28,
+        "name": "Customer 28",
+        "email": "customer28@example.com",
+        "city": "City8",
+        "signup_date": "2023-05-01"
+    },
+    {
+        "customer_id": 29,
+        "name": "Customer 29",
+        "email": "customer29@example.com",
+        "city": "City9",
+        "signup_date": "2023-06-02"
+    },
+    {
+        "customer_id": 30,
+        "name": "Customer 30",
+        "email": "customer30@example.com",
+        "city": "City0",
+        "signup_date": "2023-07-03"
+    },
+    {
+        "customer_id": 31,
+        "name": "Customer 31",
+        "email": "customer31@example.com",
+        "city": "City1",
+        "signup_date": "2023-08-04"
+    },
+    {
+        "customer_id": 32,
+        "name": "Customer 32",
+        "email": "customer32@example.com",
+        "city": "City2",
+        "signup_date": "2023-09-05"
+    },
+    {
+        "customer_id": 33,
+        "name": "Customer 33",
+        "email": "customer33@example.com",
+        "city": "City3",
+        "signup_date": "2023-10-06"
+    },
+    {
+        "customer_id": 34,
+        "name": "Customer 34",
+        "email": "customer34@example.com",
+        "city": "City4",
+        "signup_date": "2023-11-07"
+    },
+    {
+        "customer_id": 35,
+        "name": "Customer 35",
+        "email": "customer35@example.com",
+        "city": "City5",
+        "signup_date": "2023-12-08"
+    },
+    {
+        "customer_id": 36,
+        "name": "Customer 36",
+        "email": "customer36@example.com",
+        "city": "City6",
+        "signup_date": "2023-01-09"
+    },
+    {
+        "customer_id": 37,
+        "name": "Customer 37",
+        "email": "customer37@example.com",
+        "city": "City7",
+        "signup_date": "2023-02-10"
+    },
+    {
+        "customer_id": 38,
+        "name": "Customer 38",
+        "email": "customer38@example.com",
+        "city": "City8",
+        "signup_date": "2023-03-11"
+    },
+    {
+        "customer_id": 39,
+        "name": "Customer 39",
+        "email": "customer39@example.com",
+        "city": "City9",
+        "signup_date": "2023-04-12"
+    },
+    {
+        "customer_id": 40,
+        "name": "Customer 40",
+        "email": "customer40@example.com",
+        "city": "City0",
+        "signup_date": "2023-05-13"
+    },
+    {
+        "customer_id": 41,
+        "name": "Customer 41",
+        "email": "customer41@example.com",
+        "city": "City1",
+        "signup_date": "2023-06-14"
+    },
+    {
+        "customer_id": 42,
+        "name": "Customer 42",
+        "email": "customer42@example.com",
+        "city": "City2",
+        "signup_date": "2023-07-15"
+    },
+    {
+        "customer_id": 43,
+        "name": "Customer 43",
+        "email": "customer43@example.com",
+        "city": "City3",
+        "signup_date": "2023-08-16"
+    },
+    {
+        "customer_id": 44,
+        "name": "Customer 44",
+        "email": "customer44@example.com",
+        "city": "City4",
+        "signup_date": "2023-09-17"
+    },
+    {
+        "customer_id": 45,
+        "name": "Customer 45",
+        "email": "customer45@example.com",
+        "city": "City5",
+        "signup_date": "2023-10-18"
+    },
+    {
+        "customer_id": 46,
+        "name": "Customer 46",
+        "email": "customer46@example.com",
+        "city": "City6",
+        "signup_date": "2023-11-19"
+    },
+    {
+        "customer_id": 47,
+        "name": "Customer 47",
+        "email": "customer47@example.com",
+        "city": "City7",
+        "signup_date": "2023-12-20"
+    },
+    {
+        "customer_id": 48,
+        "name": "Customer 48",
+        "email": "customer48@example.com",
+        "city": "City8",
+        "signup_date": "2023-01-21"
+    },
+    {
+        "customer_id": 49,
+        "name": "Customer 49",
+        "email": "customer49@example.com",
+        "city": "City9",
+        "signup_date": "2023-02-22"
+    },
+    {
+        "customer_id": 50,
+        "name": "Customer 50",
+        "email": "customer50@example.com",
+        "city": "City0",
+        "signup_date": "2023-03-23"
+    }
+]
